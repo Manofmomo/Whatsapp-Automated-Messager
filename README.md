@@ -58,7 +58,7 @@ The patch can be added by clicking the + button next to the section
 It can be downloaded [here](https://chromedriver.chromium.org/)
 
 * ##### Windows Builds:
-They are hosted on Mega at the moment. The download links are available [here]()
+They are hosted on Github at the moment. The download links are available [here](https://github.com/Manofmomo/Whatsapp-Automated-Messager/releases/tag/1)
 
 ### Known Bugs:
 
