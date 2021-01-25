@@ -11,6 +11,8 @@ For Running Python Code:
  * functools
 * Chrome Webdriver for selenium
 
+You would require the name and number of the contacts in the first two rows of an excel file. This file should be exported as a csv file.
+
 
 #### Setup (Python):
 
@@ -31,8 +33,24 @@ This can be done by typing the following command in the src folder <br> `python3
 * ###### Windows:
 Run the WA_sender.exe file present in the folder.
 
-The following Window will popup 
+The following Window will popup
 
+![Popup](https://github.com/Manofmomo/Whatsapp-Automated-Messager/blob/main/img/popup.png)
+
+* Attachment Type:
+ * Image: This checkbox should be ticked if you would like to attach a image file
+ * File: This checkbox should be ticked if you would like to attach any document (pdf,zip,exe,docx and so on)
+
+There are various sections where you are required to add the path to the file.
+The patch can be added by clicking the + button next to the section
+* File: Here the path to the file to attach shoud be added
+* Image: Here the path to the image file should be added
+* CSV: The csv file path should be added. It's first row should contain the name, and the second row should contain the phone number of the contact.
+* Chromedriver: The path to the chromedriver for selenium should be added here.
+
+* Test Ph. Number: Any phone number can be added here in order to send a test message. The number will be sent your message with the first name of the csv file. In case a csv file isn't added the name will be replaced with "test"
+
+* Message: Here the whatsapp message to be sent can be added. Use {} where you would normally add the personalisation in the message.
 
 ### Downloads:
 
