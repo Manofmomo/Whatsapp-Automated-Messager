@@ -26,11 +26,11 @@ You would require the name and number of the contacts in the first two rows of a
 
 
 ### How to use:
-* ###### Python:
+* ##### Python:
 Run the main.py file in the src folder.
 This can be done by typing the following command in the src folder <br> `python3 main.py`
 
-* ###### Windows:
+* ##### Windows:
 Run the WA_sender.exe file present in the folder.
 
 The following Window will popup
@@ -54,10 +54,10 @@ The patch can be added by clicking the + button next to the section
 
 ### Downloads:
 
- * ###### Chromedriver:
+ * ##### Chromedriver:
 It can be downloaded [here](https://chromedriver.chromium.org/)
 
-* ###### Windows Builds:
+* ##### Windows Builds:
 They are hosted on Mega at the moment. The download links are available [here]()
 
 ### Known Bugs:
