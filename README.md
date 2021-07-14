@@ -65,4 +65,4 @@ They are hosted on Github at the moment. The download links are available [here]
 * Sometimes upon loading the WebWhatsapp, it skips to the next contact without sending the message. I do not know why this happens at the moment. If you can provide any information, feel free to open an issue [here](https://github.com/Manofmomo/Whatsapp-Automated-Messager/issues)
 
 ### Feedback:
-For any feedback feel free to email me at bhatiadhruv2001nospam@gmail.com ( Remove nospam before sending me a mail )
+For any feedback feel free to email me at dhruvnbhatianospam@gmail.com ( Remove nospam before sending me a mail )
